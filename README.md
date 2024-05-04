@@ -11,14 +11,14 @@
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,ts,nodejs,express,mongodb&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,c&perline=3" />
   </a>
 </p>
 
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
@@ -32,21 +32,29 @@
 <p align="center">
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,sqlite" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin" />
+  </a>
+</p>
+
+<p align="center">
+  <h6>DataBase</h6>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,jquery,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,xcode,postman,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,eclipse,postman,figma,anaconda,powershell&perline=3" />
   </a>
 </p>
+
 
 <p align="center">
   <h6>More</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,firebase,jquery,opencv,regex" />
   </a>
 </p>
 

@@ -53,7 +53,7 @@
 ### Contact Me!
 <p align="center">
   <h6></h6>
-  <a href="[https://www.linkedin.com/in/diegoobh/](https://www.linkedin.com/in/abelhdzl/)">
+  <a href="https://www.linkedin.com/in/abelhdzl/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>

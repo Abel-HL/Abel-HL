@@ -39,14 +39,14 @@
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=jquery,mongodb,mysql,postgres,sqlite&theme=light" />
   </a>
 </p>
 
 <p align="center">
   <h6>Tools</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse,postman,figma,anaconda,powershell&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,eclipse,postman,figma,anaconda,powershell&perline=5&theme=light" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 <p align="center">
   <h6>More</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,opencv,regex&perline=5" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,opencv,regex&perline=5&theme=light" />
   </a>
 </p>
 

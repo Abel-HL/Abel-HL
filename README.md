@@ -11,7 +11,7 @@
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,c&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,c&perline=5" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 <p align="center">
   <h6>More</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,opencv,regex" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,opencv,regex&perline=5" />
   </a>
 </p>
 

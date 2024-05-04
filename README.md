@@ -11,7 +11,7 @@
 <p align="center">
   <h6>BackEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,c&perline=5" />
+    <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,c&perline=5&theme=light" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 <p align="center">
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase&theme=light" />
   </a>
 </p>
 

@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm [Abel]! 👋
 
-<!--
-**Abel-HL/Abel-HL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently working on myself, striving for personal and professional growth.
 
-Here are some ideas to get you started:
+📚 I'm currently learning Kotlin Multiplatform and Full-Stack with Python to broaden my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm looking to collaborate on iOS mobile development and Kotlin Multiplatform projects to contribute and learn from others.
+
+### Contact Me!
+<p align="center">
+  <h6></h6>
+  <a href="[https://www.linkedin.com/in/diegoobh/](https://www.linkedin.com/in/abelhdzl/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+Let's code and learn together! 🚀

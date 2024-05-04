@@ -32,14 +32,14 @@
 <p align="center">
   <h6>Mobile</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin" />
+    <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,firebase" />
   </a>
 </p>
 
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,jquery,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=jquery,mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 <p align="center">
   <h6>More</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,firebase,jquery,opencv,regex" />
+    <img src="https://skillicons.dev/icons?i=windows,apple,linux,debian,ubuntu,bash,aws,opencv,regex" />
   </a>
 </p>
 

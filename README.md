@@ -18,7 +18,7 @@
 <p align="center">
   <h6>FrontEnd</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <p align="center">
   <h6>DataBase</h6>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
   </a>
 </p>
 

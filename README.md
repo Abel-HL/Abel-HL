@@ -2,7 +2,7 @@
 
 📚 Studying Computer Engineering at the University of Salamanca.
 
-📚 I'm currently learning Kotlin Multiplatform and Full-Stack with Python to improve my skill set.
+📚 I'm currently learning Flutter, Kotlin Multiplatform and Full-Stack with Python to improve my skill set.
 
 💻 I'm looking to collaborate on iOS mobile development and Kotlin Multiplatform projects to contribute and learn from others.
 
